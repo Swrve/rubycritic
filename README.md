@@ -1,9 +1,7 @@
-RubyCritic
+RubyCritic *Swrve fork*
 ==========
 
-[![Gem Version](https://badge.fury.io/rb/rubycritic.svg)](http://badge.fury.io/rb/rubycritic)
-[![Build Status](https://travis-ci.org/whitesmith/rubycritic.svg?branch=master)](https://travis-ci.org/whitesmith/rubycritic)
-[![Code Climate](https://codeclimate.com/github/whitesmith/rubycritic/badges/gpa.svg)](https://codeclimate.com/github/whitesmith/rubycritic)
+*contact oisin@swrve.com for details!*
 
 <img src="http://i.imgur.com/66HACCD.png" alt="RubyCritic Icon" align="right" />
 RubyCritic is a gem that wraps around static analysis gems such as [Reek][1], [Flay][2] and [Flog][3] to provide a quality report of your Ruby code.
